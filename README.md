@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zbeckiy
 - 👀 I’m interested in linux, python, bigdata
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning hard skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
